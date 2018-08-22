@@ -1,0 +1,16 @@
+Feature File: contains scenarios
+stepDefination: implement automation for above scenarios
+TestRunner: used for executing the scenarios
+
+tidy gherkin plugin in chrome: used to generate the java steps for the Feature file
+
+1)what are the components/terminologies used in Cucumber Framework?
+2)
+
+
+
+
+
+https://github.com/selenium-cucumber/selenium-cucumber-java-maven-example
+
+https://github.com/mubbashir/appium-java-cucumber-gradle
